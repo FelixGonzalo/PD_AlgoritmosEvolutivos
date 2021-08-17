@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/PD_AlgoritmosEvolutivos/static/js/main.a8472fff.chunk.js",
+    "main.js.map": "/PD_AlgoritmosEvolutivos/static/js/main.a8472fff.chunk.js.map",
+    "runtime-main.js": "/PD_AlgoritmosEvolutivos/static/js/runtime-main.a67461b2.js",
+    "runtime-main.js.map": "/PD_AlgoritmosEvolutivos/static/js/runtime-main.a67461b2.js.map",
+    "static/css/2.da98c186.chunk.css": "/PD_AlgoritmosEvolutivos/static/css/2.da98c186.chunk.css",
+    "static/js/2.f0064aa6.chunk.js": "/PD_AlgoritmosEvolutivos/static/js/2.f0064aa6.chunk.js",
+    "static/js/2.f0064aa6.chunk.js.map": "/PD_AlgoritmosEvolutivos/static/js/2.f0064aa6.chunk.js.map",
+    "static/js/3.a5f9260b.chunk.js": "/PD_AlgoritmosEvolutivos/static/js/3.a5f9260b.chunk.js",
+    "static/js/3.a5f9260b.chunk.js.map": "/PD_AlgoritmosEvolutivos/static/js/3.a5f9260b.chunk.js.map",
+    "index.html": "/PD_AlgoritmosEvolutivos/index.html",
+    "static/css/2.da98c186.chunk.css.map": "/PD_AlgoritmosEvolutivos/static/css/2.da98c186.chunk.css.map",
+    "static/js/2.f0064aa6.chunk.js.LICENSE.txt": "/PD_AlgoritmosEvolutivos/static/js/2.f0064aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a67461b2.js",
+    "static/css/2.da98c186.chunk.css",
+    "static/js/2.f0064aa6.chunk.js",
+    "static/js/main.a8472fff.chunk.js"
+  ]
+}
