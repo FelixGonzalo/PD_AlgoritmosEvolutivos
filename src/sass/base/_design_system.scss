@@ -1,0 +1,55 @@
+// Colors
+
+$color-primary: rgb(19, 140, 19);
+$color-primary-light: rgb(84, 218, 84);
+$color-primary-dark: rgb(4, 64, 4);
+$color-secondary: rgb(240, 188, 75);
+$color-light: white;
+$color-dark: #000000;
+$color-light-2: #cecece;
+
+// Letters
+$font-general: 'Kanit', sans-serif;
+
+$letter-general: 16px $font-general;
+$letter-caption: 13px $font-general;
+$letter-btn: 18px $font-general;
+
+body {
+  margin: 0;
+}
+
+* {
+  font: $letter-general;
+  color: $color-dark;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+
+.wrapper {
+  width: 100%;
+  max-width: 1200px;
+  padding: 40px 20px;
+  margin: 0 auto;
+}
+
+@keyframes rotar {
+  to {
+    transform: rotate(0deg);
+  }
+  from {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,27 @@
+.alerts-container {
+  position: fixed;
+  z-index: 1000;
+  bottom: 9vh;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.alert {
+  padding: 10px;
+  padding-right: 15px;
+  background: $color-secondary;
+  box-shadow: 2px 2px 2px $color-primary-dark;
+  border-radius: 10px;
+  p {
+    margin: 0;
+  }
+  i {
+    animation: rotar 2s infinite linear;
+    margin-right: 5px;
+  }
+  &-ok {
+    background: $color-primary-light;
+  }
+}

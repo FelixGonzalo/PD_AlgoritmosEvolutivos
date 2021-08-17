@@ -1,0 +1,13 @@
+.marker-tooltip {
+  max-width: 100px;
+  padding: 0px !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  font: $letter-caption;
+  color: $color-primary-dark !important;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-weight: 500;
+}
